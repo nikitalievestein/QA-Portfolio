@@ -22,13 +22,21 @@
 
 # Certificate / Сертификаты
 <sup>*относящиеся к тестированию, программированию</sup>
+
 *[тестирование старт в айти](https://drive.google.com/file/d/1kPZYZ2VOnkzc1-wkoEXQ4CRV6Y4fQbWf/view?usp=sharing)
+
 *[программист с++](https://drive.google.com/file/d/1-3JBU4LNRrNXLu5iWEDG-c7Nargd8ORj/view?usp=sharing)
+
 *[введение в программирование](https://drive.google.com/file/d/1l0iOxfl9DTXYef2vYe1VgjNbptC4YpwJ/view?usp=sharing)
+
 [основы работы с текстом](https://drive.google.com/file/d/1W6P6NRbO9fuJmnT5qFJ9boyfVif-O7Bb/view?usp=sharing)
+
 [контент-креатор](https://drive.google.com/file/d/1qYb_uP_xyGDOdovJCvAqKhujRvEe3xaA/view?usp=sharing)
 
 # Links / Ссылки
+
 telegram: https://t.me/nikitamahov
+
 website: https://nikitalievestein.tech/
+
 mail: mahovnpr@gmail.com | nikitalievestein@gmail.com
