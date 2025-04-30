@@ -22,4 +22,4 @@
 
 # Certificate
 
-Нетология: тестирование с нуля
+[Netology](https://drive.google.com/file/d/1kPZYZ2VOnkzc1-wkoEXQ4CRV6Y4fQbWf/view?usp=sharing)
